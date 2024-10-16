@@ -1,5 +1,6 @@
 # Praktikum2!
-[Cuplikan layar 2024-10-16 172347](https://github.com/user-attachments/assets/d5fd5a42-78d8-452c-bb35-3b374cca6256)
+![Cuplikan layar 2024-10-16 173532](https://github.com/user-attachments/assets/cb936ad8-b355-48ed-93c9-5d84628d4e01)
+
 Tujuan Program: Program ini bertujuan untuk menunjukkan bagaimana mendefinisikan class dalam Java, serta menggunakan konsep encapsulation melalui penggunaan setter dan getter untuk mengelola atribut objek.
 
 Class Person:
